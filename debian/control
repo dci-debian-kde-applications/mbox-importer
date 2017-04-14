@@ -78,8 +78,8 @@ Package: mbox-importer
 Section: utils
 Architecture: any
 Depends: kinit, kio, ${misc:Depends}, ${shlibs:Depends}
-Replaces: kmail (<< 4:16.11)
-Breaks: kmail (<< 4:16.11)
+Replaces: kmail (<< 4:16.11), ${kde-l10n:all}
+Breaks: kmail (<< 4:16.11), ${kde-l10n:all}
 Description: MBox email archive importer
  mbox-importer is a wizard to assist with importing MBox email archives into
  Akonadi
