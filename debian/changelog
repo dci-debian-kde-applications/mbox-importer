@@ -1,9 +1,13 @@
-mbox-importer (4:17.08.0-2~) UNRELEASED; urgency=medium
+mbox-importer (4:17.08.3-1) UNRELEASED; urgency=medium
 
+  [ Maximiliano Curia ]
   * New revision
   * Update uploaders list as requested by MIA team
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 31 Oct 2017 18:03:54 +0100
+  [ Sandro Knauß ]
+  * New upstream release (17.08.3).
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 17 Dec 2017 13:38:13 +0100
 
 mbox-importer (4:17.08.0-1) experimental; urgency=medium
 
